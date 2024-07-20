@@ -2,7 +2,6 @@
 - 👀 I’m interested in video game development, AI, and app development.
 - 🌱 I’m currently learning data structures, different types of data sorting methods, etc.
 - 💞️ I’m looking to collaborate on anything creative!
-- 📫 How to reach me fallonweiss74@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm currently a sophmore in college and in a number of Dunegons and Dragons campaigns! <3
 
